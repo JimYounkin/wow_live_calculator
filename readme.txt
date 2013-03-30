@@ -1,4 +1,4 @@
-This is a WoW (World of Warcraft) auction calulator spreadsheet that pulls pricing information from TheUndermineJournal.com
+This is a WoW (World of Warcraft) auction calculator spreadsheet that pulls pricing information from TheUndermineJournal.com
 
 The spreadsheet was originaly created on 3.28.13 by SheLuvme for Jim Younkin of the WoW gold-making blog powerwordgold.net.
 
@@ -18,24 +18,23 @@ It should also be noted that all of this is very experimental and may break, act
 
 In my testing this file will not work with Google Drive or OpenOffice. You must have Microsoft Excel to use it. While there may be some wizards out there who can getting it working on other programs for the purposes of this post I'm assuming you're using Excel.
 
-How To Download The File
+Download The File
 
-In order to download the file it will first open it in a shared Google Drive webpage which will start loading the file, fail to load and give a "This spreadsheet is too large..." warning.
+We decided to get a little nerdy and finally use our GitHub account for something. We've uploaded the .xlsx to GitHub so anyone can download it (as well as possibly add to/edit/build upon it). 
 
-Ignore this (as the file won't work properly in Google Drive). You will however be able to download the file without issues.
+We're not really sure if this is the "proper" way to use GitHub but we thought we'd give it a shot. (If anything else it give a slightly more straightforward way to download the file.)
 
-Use the File > Download option in the menu to save the wow_live_calculator.xlsx file to your computer.
+First go to the project's GitHub repository here.
 
-
-When the download link is clicked it will "Load" the file. Ignore this.
-
-
-Google Drive will produce a "This spreadsheet is too large..." warning. Ignore this.
+In the "Code" tab look for the "Files" tab. Right-click on "wow_live_calculator.xlsx" file and select the option "Save link as..." (or similar) in your browser's pop-up menu and save the file to your computer.
 
 
 
-After Google Drive tries (and fails) to load the file Select File > Download.
-Now that you understand what will happen, you can download the file here. (https://docs.google.com/file/d/0B-6xYzFd8mhFd2MxbU81S3RxcTg/edit?usp=sharing)
+To download: Code > Files > right-click file name and select "Save link as.." (or similar).
+
+(If you're familiar with GitHub I'd imagine you could do things like "forking" or "submitting pull requests". If you do this just know I'm a total GitHub noob.)
+
+Ready. Set. Go!
 
 Everything from this point on assumes that you have properly downloaded the file and have Microsoft Excel to work with the file. If you do not have these two things feel free to read on by it might not make much sense.
 
